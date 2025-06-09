@@ -18,8 +18,8 @@ To run the Tetris game, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd tetris
+   git clone https://github.com/amoiba42/Tetris
+   cd Tetris
    ```
 
 2. **Install Dependencies**:
